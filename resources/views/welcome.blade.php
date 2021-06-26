@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   Stanky!
+                    Kyo
                 </div>
 
                 <div class="links">
